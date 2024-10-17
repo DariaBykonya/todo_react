@@ -1,6 +1,6 @@
-Приложение ToDoS
+## Приложение ToDoS
 
-Ссылка на приложение:
+Ссылка на приложение: https://todo-react-eight-navy.vercel.app/
 
 Функционал приложения:
 - возможность добавлять задачу, которую нужно выполнить
@@ -10,5 +10,5 @@
 - удаление отдельной задачи из списка
 
 Как запустить приложение
-1. git clone https://github.com/DariaBykonya/todo_react.git
-2. npm i && npm run start
+1. ```git clone https://github.com/DariaBykonya/todo_react.git```
+2. ```npm i && npm run start```
