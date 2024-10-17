@@ -1,0 +1,32 @@
+.form {
+  margin: 0 auto;
+  display: flex;
+  gap: 10px;
+
+  width: 70%;
+  height: 40px;
+
+}
+
+.form__input {
+  border-radius: 10px;
+  border: 1px dashed #8080ff;
+  background-color: #E6E6FA;
+  color: #8080ff;
+
+  width: 80%;
+
+  padding: 0 10px;
+}
+
+.form__button {
+  width: 20%;
+
+  border: none;
+  background-color: #8080ff;
+
+  border-radius: 10px;
+
+  color: white;
+  font-size: 18px;
+}
